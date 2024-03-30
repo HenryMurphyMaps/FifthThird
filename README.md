@@ -1,5 +1,5 @@
 # FifthThird
-ArcGIS Lexington financial Building (https://youtu.be/yfOd-hZA0so)  
+ArcGIS Lexington financial Building 
 # The Lexington Financial Building "Fifth Third"
 Standing at 409ft tall, fifth thrid is a major landmark of downtown lexington.
 
